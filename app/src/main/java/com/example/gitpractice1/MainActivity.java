@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView napis = (TextView) findViewById(R.id.napis);
-        napis.setText("Witaj świecie");
+        napis.setText("Formularz w postaci tabeli");
     }
 }
